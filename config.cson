@@ -1,0 +1,15 @@
+"*":
+  welcome:
+    showOnStartup: false
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "exception-reporting"
+    ]
+  editor:
+    invisibles:
+      {}
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    scrollPastEnd: true
+    fontFamily: "Droid Sans Mono, Droid Sans Fallback"
