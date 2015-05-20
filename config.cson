@@ -13,3 +13,5 @@
     softWrapAtPreferredLineLength: true
     scrollPastEnd: true
     fontFamily: "Droid Sans Mono, Droid Sans Fallback"
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
