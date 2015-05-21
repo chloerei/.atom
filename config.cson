@@ -5,6 +5,7 @@
     autoHideMenuBar: true
     disabledPackages: [
       "exception-reporting"
+      "spell-check"
     ]
   editor:
     invisibles:
