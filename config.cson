@@ -8,11 +8,11 @@
       "spell-check"
     ]
   editor:
-    invisibles:
-      {}
     softWrap: true
     softWrapAtPreferredLineLength: true
     scrollPastEnd: true
     fontFamily: "Droid Sans Mono, Droid Sans Fallback"
+    fontSize: 16
+    invisibles: {}
   "vim-mode":
     useClipboardAsDefaultRegister: true
