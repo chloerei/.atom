@@ -16,3 +16,5 @@
     invisibles: {}
   "vim-mode":
     useClipboardAsDefaultRegister: true
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
