@@ -1,11 +1,11 @@
-## Install packages
+## Setup
 
-```
-apm install `cat packages.list`
+```console
+$ bin/setup.sh
 ```
 
-## Save packages list
+## Dump packages list
 
-```
-apm list --installed --bare > packages.list
+```console
+$ bin/dump.sh
 ```
